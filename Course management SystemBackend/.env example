@@ -1,0 +1,5 @@
+MONGODB_URI=your_database_uri
+JWT_SECRET=your_jwt_secret_key
+JWT_REFRESH_SECRET=your_jwt_refresh_secret_key
+ADMIN_EMAIL=your_admin_email
+ADMIN_PASSWORD=your_admin_password
